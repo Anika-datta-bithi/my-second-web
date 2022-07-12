@@ -1,0 +1,262 @@
+body {
+    background-color: antiquewhite;
+}
+
+.first {
+    padding-top: 35px;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.font {
+    font-size: 65px;
+    color: orange;
+}
+
+.second {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 35px;
+}
+
+.help {
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    background-color: tomato;
+    font-size: 22px;
+}
+
+.donate {
+    font-size: 40px;
+}
+
+.lorem {
+    font-size: 20px;
+}
+
+.taka {
+    width: 80%;
+    height: 190px;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.taka1 {
+
+    margin-top: 15px;
+    width: 50%;
+    height: 120px;
+    display: flex;
+
+}
+
+#first {
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 10px gray;
+}
+
+#go {
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 5px gray;
+    border: 10px solid orangered;
+
+}
+
+.online {
+    padding: 30px;
+    font-size: 32px;
+}
+
+.pcolor {
+    width: 80%;
+    margin-left: 10%;
+    box-shadow: 0px 3px gray;
+
+}
+
+.span {
+    color: orangered;
+}
+
+.link {
+    background-color: tomato;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 22px;
+}
+
+.donate1 {
+    font-size: 60px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+.taka2 {
+    width: 80%;
+    height: 300px;
+
+
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-top: 50px;
+
+}
+
+.food {
+    margin-left: 8%;
+    margin-right: 8%;
+    display: flex;
+
+    border-radius: 9px;
+}
+
+.try {
+    display: flex;
+    padding-top: 190px;
+
+}
+
+#one {
+    background-color: moccasin;
+}
+
+#two {
+    background-color: pink;
+}
+
+#three {
+    background-color: tan;
+}
+
+#font1 {
+    font-size: 29px;
+}
+
+#font2 {
+    font-size: 20px;
+}
+
+#font22 {
+    font-size: 27px;
+}
+
+#font9 {
+    padding-top: 70px;
+    font-size: 27px;
+}
+
+#font6 {
+    font-size: 43px;
+}
+
+.try1 {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 190px;
+    padding: 19px;
+}
+
+.padding {
+    padding-top: 110px;
+}
+
+.padding1 {
+    padding-top: 30px;
+}
+
+.padding3 {
+    padding-top: 100px;
+}
+
+#pad {
+    padding-right: 70px;
+}
+
+#pad1 {
+    padding-left: 70px;
+}
+
+#last1 {
+    padding-top: 120px;
+}
+
+.last {
+    width: 100%;
+    height: 190px;
+    background-color: gray;
+}
+
+span {
+    color: brown;
+}
+
+#h1font {
+    font-size: 50px;
+}
+
+#pfont {
+    font-size: 21px;
+}
+
+.text-field2 {
+    background-color: antiquewhite;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 90%;
+    height: 55px;
+    display: flex;
+
+}
+
+.text-field3 {
+    background-color: antiquewhite;
+    color: gray;
+
+    height: 50px;
+    box-shadow: 10px 10px 30px antiquewhite;
+
+}
+
+#text-one {
+    width: 75%;
+}
+
+#text-two {
+    background-color: brown;
+    color: black;
+    margin-left: 0px;
+    font-size: 25px;
+    width: 35%;
+}
+
+.box {
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 199px;
+
+    width: 60%;
+    background-color: pink;
+
+}
+
+.pad-email {
+    margin-left: 120px;
+    padding-top: 90px;
+    display: flex;
+}
